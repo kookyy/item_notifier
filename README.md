@@ -15,4 +15,4 @@ In addition to scanning the ROBLOX Catalog for new items, ROBLOX Asset Scanner c
 * [Install]() the gem (not yet published)
 
 # License
-ROBLOX Asset Scanner is [licensed](https://github.com/JasonKinetec/ROBLOX-Asset-Scanner/blob/master/LICENSE) under The MIT License. This program is 100% [open source](http://en.wikipedia.org/wiki/Open_source) and *you* are granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, study under the conditions that you include [this](https://github.com/JasonKinetec/ROBLOX-Asset-Scanner/blob/master/LICENSE) notice in all copies or substantial portions of this program.
+ROBLOX Asset Scanner is [licensed](https://github.com/JasonKinetec/ROBLOX-Asset-Scanner/blob/master/LICENSE) under The MIT License. This program is 100% [open source](http://en.wikipedia.org/wiki/Open_source) and *you* are granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or study this program under the conditions that you include [this](https://github.com/JasonKinetec/ROBLOX-Asset-Scanner/blob/master/LICENSE) notice in all copies or substantial portions of this program.
