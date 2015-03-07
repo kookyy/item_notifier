@@ -1,6 +1,6 @@
 # ROBLOX Asset Scanner
 ![Status](https://img.shields.io/badge/status-under%20development-red.svg)
-![Version](https://img.shields.io/badge/version-0.0.0-red.svg)
+![Version](https://img.shields.io/badge/version-0.0-red.svg)
 
 rScanner is a GUI program modeled after oozlescan by [@oozledoodles](http://twitter.com/oozledoodles) that scans http://roblox.com/ for when a new item is published to the website and alerts the user when an item is uploaded by [ROBLOX](http://roblox.com/user.aspx?id=1), which is the 'system' account used to publish official items to the [ROBLOX Catalog](http://roblox.com/Catalog).
 
