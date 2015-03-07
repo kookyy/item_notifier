@@ -14,6 +14,9 @@ In addition to scanning the ROBLOX Catalog for new items, rScanner comes with mo
 * [Download](https://github.com/rScanner/rScanner/releases) the latest version.
 * 
 
+# Submitting Issues
+If you are having problems with rScanner, have any questions/concerns, or want to suggest a new feature, plus do so using the [Issues](https://github.com/rScanner/rScanner/issues) section of this repository. *Be sure to use the correct labels and provide as much information as possible* so that we can provide you with as much help as you need.
+
 # License
 rScanner is [licensed](https://github.com/rScanner/rScanner/blob/master/LICENSE) under The MIT License. This program is 100% [open source](http://en.wikipedia.org/wiki/Open_source) and *you* are granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or study this program under the conditions that you include [this](https://github.com/rScanner/rScanner/blob/master/LICENSE) notice in all copies or substantial portions of this program.
 
