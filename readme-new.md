@@ -8,6 +8,7 @@ In addition to scanning the ROBLOX Catalog for new items, rScanner comes with mo
 
 * **Auto-tweet functionality** - Automatically tweets newly uploaded assets to your Twitter account. Mainly implemented for [@LeakBLOX](https://twitter.com/LeakBLOX) by [@Brassrhino](http://twitter.com/Brassrhino) <3.
 * **GUI Interface** - oozlescan is made using the [LÖVE 2D Game Engine](https://love2d.org/) and uses an interface similar to a [Command-line Interface](http://en.wikipedia.org/wiki/Command-line_interface). ROBLOX Asset Scanner uses a purely [Graphical User Interface](http://en.wikipedia.org/wiki/Graphical_user_interface) for easy use.
+* **Update Notifier** - There's millions of programs on the Internet. Most of them don't even provide you with ways of knowing when to update the program. However, this won't happen with rScanner. If an update is available, you will be notified the next time you open rScanner with a link to the latest download file.
 * [add other features here]
 
 # Getting Started
