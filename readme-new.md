@@ -1,4 +1,4 @@
-# ROBLOX Asset Scanner
+# rScanner
 ![Status](https://img.shields.io/badge/status-under%20development-red.svg)
 ![Version](https://img.shields.io/badge/version-0.0-red.svg)
 
