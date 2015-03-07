@@ -11,8 +11,13 @@ In addition to scanning the ROBLOX Catalog for new items, rScanner comes with mo
 * [add other features here]
 
 # Getting Started
-* [Download](https://github.com/kn0th1ng/rScanner/releases) the latest version.
+* [Download](https://github.com/rScanner/rScanner/releases) the latest version.
 * 
 
 # License
-ROBLOX Asset Scanner is [licensed](https://github.com/JasonKinetec/ROBLOX-Asset-Scanner/blob/master/LICENSE) under The MIT License. This program is 100% [open source](http://en.wikipedia.org/wiki/Open_source) and *you* are granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or study this program under the conditions that you include [this](https://github.com/JasonKinetec/ROBLOX-Asset-Scanner/blob/master/LICENSE) notice in all copies or substantial portions of this program.
+rScanner is [licensed](https://github.com/rScanner/rScanner/blob/master/LICENSE) under The MIT License. This program is 100% [open source](http://en.wikipedia.org/wiki/Open_source) and *you* are granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or study this program under the conditions that you include [this](https://github.com/rScanner/rScanner/blob/master/LICENSE) notice in all copies or substantial portions of this program.
+
+## ROBLOX
+©2015 ROBLOX, Inc. All Rights Reserved. Used With Permission.
+
+In accordance to [ROBLOX Terms of Service § 2 (2015)](http://www.roblox.com/info/terms-of-service).
