@@ -18,6 +18,8 @@ rScanner comes with extra features such as:
 # Submitting Issues
 If you are having problems with rScanner, have any questions/concerns, or want to suggest a new feature, please do so using the [Issues](https://github.com/rScanner/rScanner/issues) section of this repository. **Be sure to use the correct labels and provide as much information as possible** so that we can provide you with as much help as you need.
 
+Alternatively, you can [send us a tweet](http://twitter.com/rScanner_).
+
 # License
 rScanner is licensed under The MIT License. This program is 100% [open source](http://en.wikipedia.org/wiki/Open_source) and *you* are granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or study this program under the conditions that you include the [license](https://github.com/rScanner/rScanner/blob/master/LICENSE) notice in all copies or substantial portions of this program.
 
