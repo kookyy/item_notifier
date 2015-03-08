@@ -1,3 +1,9 @@
+**Quick Links**
+[Download][downloadLink] * [Issues][issuesLink]
+
+[downloadLink]: https://github.com/rScanner/rScanner/releases
+[issuesLink]: https://github.com/rScanner/rScanner/issues
+
 # rScanner
 ![Status](https://img.shields.io/badge/status-under%20development-red.svg)
 ![Version](https://img.shields.io/badge/version-0.0-red.svg)
