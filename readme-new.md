@@ -1,8 +1,9 @@
 ##### Quick Links
-[Download][downloadLink] • [Issues][issuesLink]
+[Download][downloadLink] • [Issues][issuesLink] • [License][licenseLink]
 
 [downloadLink]: https://github.com/rScanner/rScanner/releases
 [issuesLink]: https://github.com/rScanner/rScanner/issues
+[licenseLink]: https://github.com/rScanner/rScanner/blob/master/readme-new.md#license
 
 # rScanner
 ![Status](https://img.shields.io/badge/status-under%20development-red.svg)
