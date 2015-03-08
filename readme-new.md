@@ -1,4 +1,5 @@
 **Quick Links**
+
 [Download][downloadLink] * [Issues][issuesLink]
 
 [downloadLink]: https://github.com/rScanner/rScanner/releases
