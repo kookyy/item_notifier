@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/status-under%20development-red.svg)
 ![Version](https://img.shields.io/badge/version-0.0-red.svg)
 
-<img src="https://avatars3.githubusercontent.com/u/11359743" align="right"/>
+<img src="https://avatars3.githubusercontent.com/u/11359743" width="174px" height="144px" align="right"/>
 
 rScanner is a GUI program modeled after oozlescan by [@oozledoodles](http://twitter.com/oozledoodles). rScanner scans http://roblox.com/ for new items that are published to the website and alerts the user when an item is uploaded by [ROBLOX](http://roblox.com/user.aspx?id=1), the main administrative account used to publish official items to the [ROBLOX Catalog](http://roblox.com/Catalog).
 
