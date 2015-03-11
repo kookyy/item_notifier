@@ -6,10 +6,8 @@
 [licenseLink]: https://github.com/rScanner/rScanner/blob/master/readme-new.md#license
 
 # rScanner
-<center>
-![Status](https://img.shields.io/badge/status-under%20development-red.svg)
-![Version](https://img.shields.io/badge/version-0.0-red.svg)
-</center>
+<center>![Status](https://img.shields.io/badge/status-under%20development-red.svg)</center>
+<center>![Version](https://img.shields.io/badge/version-0.0-red.svg)</center>
 
 <img src="https://avatars3.githubusercontent.com/u/11359743" width="250px" height="250px" align="right"/>
 
