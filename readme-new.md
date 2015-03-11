@@ -13,7 +13,7 @@
 
 rScanner is a GUI program modeled after oozlescan by [@oozledoodles](http://twitter.com/oozledoodles). rScanner scans http://roblox.com/ for new items that are published to the website and alerts the user when an item is uploaded by [ROBLOX](http://roblox.com/user.aspx?id=1), the main administrative account used to publish official items to the [ROBLOX Catalog](http://roblox.com/Catalog).
 
-rScanner comes with extra features such as:
+Some key features of rScanner are:
 
 * **Auto-tweet functionality** - Automatically tweets newly uploaded assets to your Twitter account. Mainly implemented for [@LeakBLOX](https://twitter.com/LeakBLOX) by [@Brassrhino](http://twitter.com/Brassrhino) <3.
 * **GUI Interface** - oozlescan is made using the [LÖVE 2D Game Engine](https://love2d.org/) and uses an interface similar to a [Command-line Interface](http://en.wikipedia.org/wiki/Command-line_interface). rScanner uses a purely [Graphical User Interface](http://en.wikipedia.org/wiki/Graphical_user_interface) for easy use.
