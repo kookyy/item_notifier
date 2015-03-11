@@ -1,3 +1,5 @@
+note to self: when changing README.me to README-new.md, update the links to README.md
+
 ##### Quick Links
 [Download][downloadLink] • [Issues][issuesLink] • [License][licenseLink]
 
