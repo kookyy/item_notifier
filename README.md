@@ -1,11 +1,9 @@
-note to self: when changing README.me to README-new.md, update the links to README.md
-
 ##### Quick Links
 [Download][downloadLink] • [Issues][issuesLink] • [License][licenseLink]
 
 [downloadLink]: https://github.com/rScanner/rScanner/releases
 [issuesLink]: https://github.com/rScanner/rScanner/issues
-[licenseLink]: https://github.com/rScanner/rScanner/blob/master/readme-new.md#license
+[licenseLink]: https://github.com/rScanner/rScanner/blob/master/README.md#license
 
 # rScanner
 ![Status](https://img.shields.io/badge/status-under%20development-red.svg)
@@ -34,7 +32,7 @@ Alternatively, you can [send us a tweet](http://twitter.com/rScanner_).
 # Wiki
 Please note that the [rScanner wiki](https://github.com/rScanner/rScanner/wiki) is constantly being added to. The main purpose for the wiki is to teach new users how to use certain features on rScanner. The wiki is updated on a random basis.
 
-If you think something needs to be added, changed, or removed to/from the wiki, please see [Submitting Issues](https://github.com/rScanner/rScanner/blob/master/README-new.md#submitting-issues) and submit an issue with the "Wiki" tag.
+If you think something needs to be added, changed, or removed to/from the wiki, please see [Submitting Issues](https://github.com/rScanner/rScanner/blob/master/README.md#submitting-issues) and submit an issue with the "Wiki" tag.
 
 # License
 rScanner is licensed under The MIT License. This program is 100% [open source](http://en.wikipedia.org/wiki/Open_source) and *you* are granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or study this program under the conditions that you include the [license](https://github.com/rScanner/rScanner/blob/master/LICENSE) notice in all copies or substantial portions of this program.
