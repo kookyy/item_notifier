@@ -1,3 +1,5 @@
+NOTICE: Assuming I actually stick to my plans daily, development on this won't start for a long time. However, it will be eventually created.
+
 ##### Quick Links
 [Download][downloadLink] • [Issues][issuesLink] • [License][licenseLink]
 
