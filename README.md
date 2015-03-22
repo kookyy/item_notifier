@@ -26,6 +26,8 @@ Some key features of rScanner are as follows:
 * [Download](https://github.com/rScanner/rScanner/releases) the latest version.
 * 
 
+Having trouble? Try the [rScanner Installer](https://github.com/rScanner/rScanner-Installer).
+
 # Submitting Issues
 If you are having problems with rScanner, have any questions/concerns, or want to suggest a new feature, please do so using the [Issues](https://github.com/rScanner/rScanner/issues) section of this repository. **Be sure to use the correct labels and provide as much information as possible** so that we can provide you with as much help as you need.
 
